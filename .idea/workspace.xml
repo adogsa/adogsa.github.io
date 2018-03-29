@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9eb3cc18-e70c-430b-9696-371d462115c9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/_config.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/scaffolds/draft.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/scaffolds/page.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/scaffolds/post.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/source/_posts/hello-world.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/source/_posts/jjw.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/source/_posts/jjw.md.bak" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/_config.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/de.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/default.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/es.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/fr.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/ja.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/ko.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/nl.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/no.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/pt.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/ru.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/zh-CN.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/zh-TW.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/after-footer.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/archive-post.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/archive.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/article.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/footer.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/gauges-analytics.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/google-analytics.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/head.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/header.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/mobile-nav.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/category.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/date.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/gallery.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/nav.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/tag.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/title.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/sidebar.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/archive.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/category.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/recent_posts.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/tag.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/tagcloud.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/archive.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/category.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/index.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/layout.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/page.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/post.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/tag.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/scripts/fancybox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_extend.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/archive.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/article.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/comment.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/footer.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/header.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/highlight.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/mobile.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/sidebar-aside.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/sidebar-bottom.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/sidebar.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_util/grid.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_util/mixin.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_variables.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/images/banner.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/style.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/blank.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_loading@2x.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_overlay.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_sprite@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/fancybox_buttons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/jquery.fancybox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/jquery.fancybox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/jquery.fancybox.pack.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/js/script.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/public/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/cslog/backend" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/blog/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blog-src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog-src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog-src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog-src" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\blog-src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9eb3cc18-e70c-430b-9696-371d462115c9" name="Default" comment="" />
+      <created>1522312129875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522312129875</updated>
+      <workItem from="1522312131225" duration="167000" />
+    </task>
+    <task id="LOCAL-00001" summary="init blog src">
+      <created>1522312296044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522312296044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="167000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init blog src" />
+    <option name="LAST_COMMIT_MESSAGE" value="init blog src" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blog/public/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
